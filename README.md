@@ -20,6 +20,12 @@ Trains and tunes a model using GridSearchCV\
 Outputs results on the test set\
 Exports the final model as a pickle file\
 3. Flask Web App 
+- The main page 
+<img width="1538" alt="Screen Shot 2021-12-21 at 9 45 49 PM" src="https://user-images.githubusercontent.com/84443038/146994513-7eb91676-432e-45bb-aac8-724caca2c9e9.png">
+- Result page after calssifying the massage "I am Hungry"
+<img width="1538" alt="Screen Shot 2021-12-21 at 9 45 34 PM" src="https://user-images.githubusercontent.com/84443038/146994625-eaa0d323-a146-4aa2-b30e-35fbff83c830.png">
+
+
 ### Files Descriptions
 
 	- README.md: read me file
@@ -54,3 +60,4 @@ Exports the final model as a pickle file\
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
